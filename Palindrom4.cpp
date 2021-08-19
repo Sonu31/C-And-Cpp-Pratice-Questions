@@ -1,3 +1,5 @@
+//(Method 1)
+//Q1. Write a cpp program  to check given Number is palindrom or Not .     (Method 1)
 
 #include<iostream>
 using namespace std;
@@ -41,7 +43,7 @@ int   main()
         return 0;
     }
 
-
+//(Method 2)
 
 
 
